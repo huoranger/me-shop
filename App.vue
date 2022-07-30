@@ -19,5 +19,6 @@
 	@import "@/common/icon.css";
 	/* 官方ui库 */
 	@import "@/common/uni.css";
+	@import "@/common/main.css"
 	
 </style>
